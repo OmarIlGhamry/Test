@@ -1,5 +1,4 @@
 package RocketGame.Core;
-
 import RocketGame.Main.RocketGame;
 import RocketGame.Rendering.AnimListener;
 import RocketGame.Texture.TextureReader;
